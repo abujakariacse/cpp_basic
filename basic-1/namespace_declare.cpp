@@ -24,5 +24,9 @@ int main(){
       // typecasting in CPP
     cout << int(str) << endl;
 
+
+    int number = 66;
+    cout << char(number)<<endl ;
+
     return 0;
 }
